@@ -1,0 +1,15 @@
+.body-all {
+    font-family: 'Varela Round', sans-serif;
+    background-color: #E8E6E6;
+    margin: 0px;
+    padding: 0px;
+}
+.image {
+
+        text-align:center;
+        background-color:gold;
+        font-weight : normal;
+        font-size:100px;
+        height:200px;
+}
+
